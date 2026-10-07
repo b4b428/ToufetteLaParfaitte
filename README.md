@@ -46,3 +46,4 @@ Tout est dans `index.html` : HTML, CSS et JavaScript, sans dépendance. Seules l
 ## Crédits
 
 Logo « Toufette la parfaite » fourni par l'auteur du dépôt. Outil construit avec Claude (Anthropic).
+test pour deploiement
